@@ -21,7 +21,8 @@ function Navbar() {
       const { error } = await supabase.auth.signInWithOAuth({
         provider: 'google',
         options: { 
-          scopes: 'https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar.events' 
+          scopes: 'https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar.events' ,
+          redirectTo: 'https://calendar-events-ten.vercel.app',
         },
       });
       
