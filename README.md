@@ -13,3 +13,8 @@ Open supabase and get
 and place  supabase url and api key in .env file
 
 
+screenshot :
+![image](https://github.com/user-attachments/assets/03b1f362-b3fc-4cd6-849f-381a66b72581)
+
+![image](https://github.com/user-attachments/assets/aed452e9-38ea-411c-8449-c90d56e4f897)
+
