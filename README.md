@@ -1,6 +1,8 @@
 # calendar-events
 
+live url : https://calendar-events-ten.vercel.app/
 
+For testing purpose i can only access the app 
 Installation 
 
 npm i <br>
